@@ -1,0 +1,9 @@
+{
+  "version": "0.1.1",
+  "versionCode": 2,
+  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.1-2/deathdoc-0.1.1-2.apk",
+  "size": 59685010,
+  "sha256": "f5c786d82ec3fbf460ec65e1390186a1e437d75b4ebee14d784a0a60a29742c5",
+  "released": "2026-11-07T19:47:10.843Z",
+  "notes": "The bottom bar is no longer hidden behind the phone's own buttons."
+}
