@@ -1,9 +1,9 @@
 {
-  "version": "0.1.4",
-  "versionCode": 5,
-  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.4-5/deathdoc-0.1.4-5.apk",
-  "size": 31929172,
-  "sha256": "027a73ceabc27434e8970e9405023b18f0119487e2c9b922df68bdcc60fad694",
-  "released": "2026-11-08T07:09:21.547Z",
-  "notes": "Smaller download (about 30 MB). Finalised reports to read, with their PDF to open or share, kept on the phone for offline. Preview PDF on a draft."
+  "version": "0.1.5",
+  "versionCode": 6,
+  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.5-6/deathdoc-0.1.5-6.apk",
+  "size": 31946724,
+  "sha256": "376f3ae73292b93b9f5518b4db0f9528053f994d334c65adb7f4e84a29a107f9",
+  "released": "2026-11-08T07:29:37.553Z",
+  "notes": "Finalise and sign a report on the phone (with network), choosing which photographs go in the PDF, with a preview first."
 }
