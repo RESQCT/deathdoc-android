@@ -1,10 +1,10 @@
 {
-  "version": "0.1.7",
-  "versionCode": 8,
-  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.7-8/deathdoc-0.1.7-8.apk",
-  "mirror": "https://raw.githubusercontent.com/RESQCT/deathdoc-android/main/apk/deathdoc-0.1.7-8.apk",
-  "size": 31977052,
-  "sha256": "a83d1ea69644d0c9eb86294232276bf69a85c481e0909250780fb4a288bc9d3c",
-  "released": "2026-11-08T08:54:29.017Z",
-  "notes": "Drafts open again when you tap them. A draft deleted on the website now leaves the phone too."
+  "version": "0.1.8",
+  "versionCode": 9,
+  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.8-9/deathdoc-0.1.8-9.apk",
+  "mirror": "https://raw.githubusercontent.com/RESQCT/deathdoc-android/main/apk/deathdoc-0.1.8-9.apk",
+  "size": 31980568,
+  "sha256": "571fad8825331738a8e055869cf1deb8602dfadf06d84689d935ed17d12c9e95",
+  "released": "2026-11-08T09:37:02.955Z",
+  "notes": "Flash (Off, Auto, On) and a light in the camera. GPS starts when you open a report, so the camera usually has a fix by the time it opens, even without network."
 }
