@@ -1,9 +1,9 @@
 {
-  "version": "0.1.6",
-  "versionCode": 7,
-  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.6-7/deathdoc-0.1.6-7.apk",
-  "size": 31975688,
-  "sha256": "fb65e3006ff88d6107f0de0dac52bc8878c39bc0f0969b0676808b5d21fe99e2",
-  "released": "2026-11-08T08:22:51.846Z",
-  "notes": "Your drafts from the website come onto the phone (the ones you started, and the ones naming you as Signing Veterinarian). Delete a draft. Me shows any problems on this phone, to share with the tech team."
+  "version": "0.1.7",
+  "versionCode": 8,
+  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.7-8/deathdoc-0.1.7-8.apk",
+  "size": 31977052,
+  "sha256": "a83d1ea69644d0c9eb86294232276bf69a85c481e0909250780fb4a288bc9d3c",
+  "released": "2026-11-08T08:54:29.017Z",
+  "notes": "Drafts open again when you tap them. A draft deleted on the website now leaves the phone too."
 }
