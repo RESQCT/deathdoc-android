@@ -2,6 +2,7 @@
   "version": "0.1.7",
   "versionCode": 8,
   "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.7-8/deathdoc-0.1.7-8.apk",
+  "mirror": "https://raw.githubusercontent.com/RESQCT/deathdoc-android/main/apk/deathdoc-0.1.7-8.apk",
   "size": 31977052,
   "sha256": "a83d1ea69644d0c9eb86294232276bf69a85c481e0909250780fb4a288bc9d3c",
   "released": "2026-11-08T08:54:29.017Z",
