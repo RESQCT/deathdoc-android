@@ -1,10 +1,10 @@
 {
-  "version": "0.1.8",
-  "versionCode": 9,
-  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.8-9/deathdoc-0.1.8-9.apk",
-  "mirror": "https://raw.githubusercontent.com/RESQCT/deathdoc-android/main/apk/deathdoc-0.1.8-9.apk",
-  "size": 31980568,
-  "sha256": "571fad8825331738a8e055869cf1deb8602dfadf06d84689d935ed17d12c9e95",
-  "released": "2026-11-08T09:37:02.955Z",
-  "notes": "Flash (Off, Auto, On) and a light in the camera. GPS starts when you open a report, so the camera usually has a fix by the time it opens, even without network."
+  "version": "0.1.9",
+  "versionCode": 10,
+  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.9-10/deathdoc-0.1.9-10.apk",
+  "mirror": "https://raw.githubusercontent.com/RESQCT/deathdoc-android/main/apk/deathdoc-0.1.9-10.apk",
+  "size": 33620486,
+  "sha256": "4bad66eb84dab7a8f31cb15b3f4f09582ee397d1f3eec89f43b68819d5d74a98",
+  "released": "2026-11-08T10:39:38.183Z",
+  "notes": "Date and time pickers with Now. Ask Moh on the phone. Crop photographs to 4:3. The Photographs and Page layout tabs. Finalise says clearly when the report is still sending."
 }
