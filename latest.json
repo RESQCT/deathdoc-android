@@ -1,9 +1,9 @@
 {
-  "version": "0.1.3",
-  "versionCode": 4,
-  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.3-4/deathdoc-0.1.3-4.apk",
-  "size": 70380464,
-  "sha256": "0ce0667d5d4aea0d4408c96757097dedf822eb6b579628ce3cead5a700d10f88",
-  "released": "2026-11-08T03:57:17.317Z",
-  "notes": "Geotag camera: take photographs for each field, stamped with the place and time; the full-size original is kept and both are sent by themselves. The app now shows its version, and tells you on every screen when a newer one is ready."
+  "version": "0.1.4",
+  "versionCode": 5,
+  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.4-5/deathdoc-0.1.4-5.apk",
+  "size": 31929172,
+  "sha256": "027a73ceabc27434e8970e9405023b18f0119487e2c9b922df68bdcc60fad694",
+  "released": "2026-11-08T07:09:21.547Z",
+  "notes": "Smaller download (about 30 MB). Finalised reports to read, with their PDF to open or share, kept on the phone for offline. Preview PDF on a draft."
 }
