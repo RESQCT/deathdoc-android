@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "versionCode": 10,
-  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.9-10/deathdoc-0.1.9-10.apk",
-  "mirror": "https://raw.githubusercontent.com/RESQCT/deathdoc-android/main/apk/deathdoc-0.1.9-10.apk",
-  "copy": "https://kfezhkniwpeixpdmhzsa.supabase.co/storage/v1/object/public/pm-app/deathdoc-0.1.9-10.apk",
-  "size": 33620486,
-  "sha256": "4bad66eb84dab7a8f31cb15b3f4f09582ee397d1f3eec89f43b68819d5d74a98",
-  "released": "2026-11-08T10:39:38.183Z",
-  "notes": "Date and time pickers with Now. Ask Moh on the phone. Crop photographs to 4:3. The Photographs and Page layout tabs. Finalise says clearly when the report is still sending."
+  "version": "0.1.10",
+  "versionCode": 11,
+  "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.10-11/deathdoc-0.1.10-11.apk",
+  "mirror": "https://raw.githubusercontent.com/RESQCT/deathdoc-android/main/apk/deathdoc-0.1.10-11.apk",
+  "copy": "/var/folders/9w/ttr2hs0d0752jyncrrs8nc540000gn/T/dd-kpBEBS/deathdoc-0.1.10-11.apk",
+  "size": 33632546,
+  "sha256": "c33400981deb190870332d2e46ec5d17305924bf6118e89413d2b1939c9205c1",
+  "released": "2026-11-24T07:21:27.695Z",
+  "notes": "Photographs: holding the phone upright now says to turn it sideways instead of showing an error. Finalise lists which required fields are still empty, by section, and says when it last checked. Each section shows how many required fields are left, offline too. New Summary screen: read the whole report offline before sending."
 }
