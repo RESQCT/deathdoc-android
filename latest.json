@@ -3,7 +3,7 @@
   "versionCode": 11,
   "file": "https://github.com/RESQCT/deathdoc-android/releases/download/v0.1.10-11/deathdoc-0.1.10-11.apk",
   "mirror": "https://raw.githubusercontent.com/RESQCT/deathdoc-android/main/apk/deathdoc-0.1.10-11.apk",
-  "copy": "/var/folders/9w/ttr2hs0d0752jyncrrs8nc540000gn/T/dd-kpBEBS/deathdoc-0.1.10-11.apk",
+  "copy": "https://kfezhkniwpeixpdmhzsa.supabase.co/storage/v1/object/public/pm-app/deathdoc-0.1.10-11.apk",
   "size": 33632546,
   "sha256": "c33400981deb190870332d2e46ec5d17305924bf6118e89413d2b1939c9205c1",
   "released": "2026-11-24T07:21:27.695Z",
